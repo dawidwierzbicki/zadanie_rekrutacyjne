@@ -1,1 +1,1 @@
-# zadanie_rekrutacyjne
+This repository contains project for recruitment process.
